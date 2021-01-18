@@ -1,4 +1,5 @@
-﻿using DollarComputers.Models;
+﻿//Wrote by Arezou Sohrabvand
+using DollarComputers.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
